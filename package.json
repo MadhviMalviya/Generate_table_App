@@ -1,0 +1,21 @@
+{
+  "name": "stackblitz-starters-hzeowp",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
+
+
+//Create input field When you type a number on that input field immediately generate table for that number and show it on the page Suppose you typed five on input field, and without any button, click immediately generate a table for five and show it on a table and if you change the number, it should immediately change the table//
